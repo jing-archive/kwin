@@ -14,6 +14,7 @@
 #include <QImage>
 #include <QPoint>
 #include <QVariant>
+#include <QKeySequence>
 
 #include <kwin_export.h>
 
